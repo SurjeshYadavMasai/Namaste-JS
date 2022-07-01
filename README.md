@@ -1,18 +1,14 @@
 # Welcome to Namaste Javascript Notes 🚀
 
-![Namaste-JavaScript-Banner](https://socialify.git.ci/alok722/namaste-javascript-notes/image?description=1&font=Raleway&forks=1&logo=https://www.tutorialrepublic.com/lib/images/javascript-illustration.png&owner=1&stargazers=1&theme=Dark)
-
 ## ❓ what it is
 
 > This repo maintains my version of javascript notes which I learned from the famous [Namaste Javascript Youtube Series](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=1&ab_channel=AkshaySaini) by Akshay Saini.
 
 <br>
 
-<a href="https://www.buymeacoffee.com/alok722" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40" width="190" style="border-radius:8px" />
+ 
 
 ## 🔗 [bit.ly/namaste-js](https://bit.ly/namaste-js)
-
-## 🏠 [Namaste Javascript Notes Website](https://alok722.github.io/namaste-javascript-notes/dist/lectures.html)
 
 ## 🚀 [PDF Version of Complete Notes](./dist/namaste-javascript-notes.pdf)
 
@@ -67,10 +63,10 @@ From the creator of Namaste Javascript himself, 🙌
 
 ## 👤 Author
 
-**alok raj (alokr417@gmail.com)**
+**Surjesh Yadav (surjeshom@gmail.com)**
 
-- website: https://alokraj.tech/
-- linkedin: [@alok722](https://linkedin.com/in/alok722)
+- website:  
+- linkedin: [SurjeshYadav](https://linkedin.com/in/surjeshyadav/)
 
 <br>
 
@@ -85,9 +81,5 @@ From the creator of Namaste Javascript himself, 🙌
 
 ## 🙏 Special Thanks
 
-- https://github.com/HariAcidReign/JavaScript-A-Z-Notes
 - https://sakshambhatt.hashnode.dev/notes-or-namaste-javascript-by-akshay-saini
 
-## ✨ Show your support
-
-Give a ⭐️ if this project helped you!
