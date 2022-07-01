@@ -55,12 +55,6 @@
 ### [Episode 19 : map, filter & reduce](./notes/lecture-19.md)
 
 <br>
-
-## ✨ Testimonial
-
-From the creator of Namaste Javascript himself, 🙌
-![Testimonial](./assets/testimonial.png)
-
 ## 👤 Author
 
 **Surjesh Yadav (surjeshom@gmail.com)**
