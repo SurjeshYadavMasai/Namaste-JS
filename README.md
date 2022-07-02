@@ -56,12 +56,14 @@
 
 <br>
 ## 👤 Author
- ****Credit Goes To [Alok Raj](https://linkedin.com/in/alok722/)
-  **Alok Raj  (alokr417@gmail.com)
+ **Credit Goes To : Alok Raj
+  
+  **Alok Raj  (alokr417@gmail.com)**
   **Surjesh Yadav (surjeshom@gmail.com)**
 
-- website:  
+
 - linkedin: [SurjeshYadav](https://linkedin.com/in/surjeshyadav/)
+- linkedin: [Alok Raj](https://linkedin.com/in/alok722/)
 
 <br>
 
